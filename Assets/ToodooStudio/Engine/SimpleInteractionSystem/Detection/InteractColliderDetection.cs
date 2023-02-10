@@ -125,6 +125,9 @@ namespace ToodooStudio.Engine.SimpleInteractionSystem.Detection
 
                         if(_pressCount > 0)
                             return;
+
+                        if (holdList.Count <= 0)
+                            return;
                         
                         var currentInteractable = holdList.Last();
                         CheckAndUpdateHoldProgress(currentInteractable);
