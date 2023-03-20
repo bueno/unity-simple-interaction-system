@@ -8,8 +8,8 @@
 # 3. Go to Project Settings / Graphics and set a Render Pipeline Asset in Scriptable Render Pipeline Settings.
 
 ###### Documentation 
-# There is a documentation file in the Assets folder (Root folder). 
-# This file is named "Documentation - Simple Interaction System 1.0.0" and will help you use the product.
+# There is a documentation file in the Assets folder (Root folder) OR you can access the documentation online: https://sis-unity.toodoo.studio 
+# This documentation will help you use the product.
 
 ###### Support 
 # If you need any support, feel free to contact us at: contact@toodoo.studio.
