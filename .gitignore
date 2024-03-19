@@ -73,5 +73,11 @@ crashlytics-build.properties
 
 # NaughtyAttributes package
 /[Aa]ssets/[Nn]aughtyAttributes/*
-/[Nn]aughtyAttributes*.*
+/[Aa]ssets/[Nn]aughtyAttributes.meta
 
+# .idea files
+/.idea
+unity-simple-interaction-system.sln.DotSettings
+
+# Unity Store
+/[Uu]nity Store/*
