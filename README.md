@@ -1,10 +1,10 @@
 # Simple Interaction System for Unity
 
-Welcome to the Simple Interaction System, an innovative Unity asset designed to effortlessly integrate interactive objects into your game or application. Developed as a cornerstone of the engaging interactive experiences in the game *Thomas' Tales* available on [Steam](https://store.steampowered.com/app/1698750/Thomas_Tales/) and [Epic Games Store](https://store.epicgames.com/en-US/p/thomas-tales-912c23), this powerful, user-friendly tool enables developers to enrich their projects with engaging and interactive user experiences, suitable for both simple and complex interaction scenarios.
+Welcome to the Simple Interaction System, an innovative and open-source Unity asset designed to effortlessly integrate interactive objects into your game or application. Developed as a cornerstone of the engaging, interactive experiences in the game Thomas' Tales, available on [Steam](https://store.steampowered.com/app/1698750/Thomas_Tales/) and [Epic Games Store](https://store.epicgames.com/en-US/p/thomas-tales-912c23), this powerful, user-friendly tool enables developers to enrich their projects with engaging and interactive user experiences suitable for simple and complex interaction scenarios.
 
 ## Introduction
 
-The Simple Interaction System offers a streamlined approach to creating interactive objects, significantly reducing the need for extensive coding. It's tailored to be accessible for beginners while still providing the depth and flexibility experienced developers crave. Our goal is to help you bring your interactive visions to life with ease and efficiency.
+The Simple Interaction System offers a streamlined approach to creating interactive objects, significantly reducing the need for extensive coding. It's tailored to be accessible for beginners while providing the depth and flexibility experienced developers crave. We aim to help you bring your interactive visions to life quickly and efficiently.
 
 ## Main Features
 
@@ -26,7 +26,7 @@ Take advantage of pre-built scripts showcasing the event-based functionality pro
 
 ## Demo Scene
 
-Explore two demo scenes tailored for first-person and third-person or top-down games. These demos utilize the full spectrum of system capabilities, demonstrating interactions with doors, keys, and stairs, and even simulating inventory management. All featured classes are thoroughly documented within the code to aid in understanding and application.
+Explore two demo scenes tailored for first-person and third-person or top-down games. These demos utilize the system's capabilities, demonstrating interactions with doors, keys, and stairs and even simulating inventory management. All featured classes are thoroughly documented within the code to aid understanding and application.
 
 ## Setup and Requirements
 
